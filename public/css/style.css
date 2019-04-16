@@ -1,0 +1,83 @@
+    /* ####################################################
+    :: Template Name: Essence - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Essence is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform.
+    :: Version: 1.0.0
+    :: Created: April 27, 2018
+    :: Last Updated: May 2, 2018
+    #################################################### */
+
+    /* ---------------------------------------
+    ##### - PLACE YOUR CUSTOM CSS HERE - #####
+    --------------------------------------- */
+
+    .clearbottom{
+        margin-bottom: 30px;
+    }
+
+    .light-list{
+        font-weight: lighter;
+    }
+
+    .thick-list{
+        font-weight: bolder;
+    }
+
+    .author-name{
+        font-size: 20px;
+    }
+
+    .add-to-cart{
+        font-size: 15px;
+        text-decoration: underline;
+        color: #d10006;
+    }
+
+    .cart-item-text{
+        font-size: 16px;
+        color: #867f7f;
+        text-transform: uppercase;
+    }
+
+    .cart-item-header{
+        font-size: 17px;
+        color: #0c0202;
+        text-transform: uppercase;
+    }
+
+    .button-qty-add{
+        background-color: #2ba044;
+        color: #000000;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 3px;
+
+
+        text-align: center;
+              height: 40px;
+              width: 60px;
+              border: none;
+              -moz-appearance: textfield;
+              -webkit-appearance: textfield;
+              appearance: textfield;
+              color: #242424;
+              font-size: 14px;
+    }
+
+        .button-qty-delete{
+        background-color: #f20909;
+        color: #000000;
+        padding-left: 8px;
+        padding-right: 8px;
+        padding-top: 3px;
+                text-align: center;
+              height: 40px;
+              width: 60px;
+              border: none;
+              -moz-appearance: textfield;
+              -webkit-appearance: textfield;
+              appearance: textfield;
+              color: #242424;
+              font-size: 14px;
+    }
